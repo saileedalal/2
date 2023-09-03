@@ -3,7 +3,7 @@ The "Personal Finance Manager" project is a Python-based finance management appl
 
 This finance management tool offers several key features:
 
-1. Expense Tracking: Users can input expenses with details such as the date, description, amount, and category. All expenses are stored in a CSV file for easy retrieval and analysis.
+1. **Expense Tracking:** Users can input expenses with details such as the date, description, amount, and category. All expenses are stored in a CSV file for easy retrieval and analysis.
 
 2. **Expense Visualization:** The tool provides interactive visualizations, including a pie chart for spending distribution and a bar chart for expense categories. These visualizations allow users to quickly grasp their spending patterns.
 
